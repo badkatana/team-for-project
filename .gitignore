@@ -1,0 +1,4 @@
+/client/tmaker/node_modules
+/db/node_modules
+.env
+/neuron/__pycache__
